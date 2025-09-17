@@ -28,9 +28,9 @@ Dashboard storytelling: Creating clear, compelling visualizations that communica
 Campaign optimization: Using data to identify areas for improving campaign performance.
 
 # Tools Used
-# Power BI: For data modeling, analysis, and building the interactive dashboard.
+ Power BI: For data modeling, analysis, and building the interactive dashboard.
 
-# Microsoft Excel/Google Sheets: For initial data cleaning and preparation (if applicable).
+ Microsoft Excel/Google Sheets: For initial data cleaning and preparation (if applicable).
 
 # How to Run the Dashboard
 Ensure you have Power BI Desktop installed on your computer.
