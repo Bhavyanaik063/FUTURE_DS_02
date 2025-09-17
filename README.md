@@ -37,6 +37,6 @@ Ensure you have Power BI Desktop installed on your computer.
 
 Clone this repository to your local machine.
 
-Open the FUTURE_DS_02.pbix file in Power BI Desktop.
+Open the TASK_02.pbix file in Power BI Desktop.
 
 The dashboard will automatically load, allowing you to interact with the visualizations and explore the data.
